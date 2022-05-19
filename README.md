@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-<img alt="Spring Boot" src ="[https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white](https://simpleicons.org/icons/mysql.svg)"/>
+<img alt="mysql" src ="https://simpleicons.org/icons/mysql.svg"/>
