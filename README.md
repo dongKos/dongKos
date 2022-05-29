@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-3년차 백엔드 주니어 개발자 김동환입니다 :)
+3년차 백엔드 개발자 김동환입니다 :)
 
 #### [노션이력서](https://nebulous-nylon-488.notion.site/dongko-0d489a8d4c1d4ac7b775da48663537c9),  [기술블로그](https://velog.io/@dhkim931101)
 <!--
