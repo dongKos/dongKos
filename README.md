@@ -4,7 +4,7 @@
 - Kotlin
 - React & Typescript
 - CI/CD Pipeline
-- AWS ECS, ECS & Docker
+- AWS ECS, ECR & Docker
 
 #### [노션이력서](https://nebulous-nylon-488.notion.site/dongko-0d489a8d4c1d4ac7b775da48663537c9),  [기술블로그](https://velog.io/@dhkim931101)
 <!--
