@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-안녕하세요 하쿠나라이브 백엔드 개발자 김동환입니다. 3년째 백엔드 개발을 하고 있습니다. 현재 회사에서 사용하는 스택을 주로 공부하고 있습니다.
+안녕하세요 Hakuna Live Backend Team Dongko입니다. 현재 관심 있는 기술들:
 - Kotlin
 - React & Typescript
+- CI/CD Pipeline
+- AWS ECS, ECS & Docker
 
 #### [노션이력서](https://nebulous-nylon-488.notion.site/dongko-0d489a8d4c1d4ac7b775da48663537c9),  [기술블로그](https://velog.io/@dhkim931101)
 <!--
