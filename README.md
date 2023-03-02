@@ -6,7 +6,7 @@
 - CI/CD Pipeline
 - AWS ECS, ECR & Docker
 
-#### [노션이력서](https://nebulous-nylon-488.notion.site/dongko-0d489a8d4c1d4ac7b775da48663537c9),  [기술블로그](https://velog.io/@dhkim931101)
+#### [노션이력서](https://nebulous-nylon-488.notion.site/dongko-0d489a8d4c1d4ac7b775da48663537c9)
 <!--
 **dongKos/dongKos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
